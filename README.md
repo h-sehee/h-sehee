@@ -1,7 +1,7 @@
 # Hi there, I'm Sehee Hwang 👋
 
 ### 🚀 Software Engineer | Creative Developer
-**2025 Computer Science Graduate from the University of Delaware**
+**2025 Computer Science Graduate from the University of Delaware (Summa Cum Laude)**
 Passionate about building scalable software, intuitive user experiences, and bridging the gap between design and technology.
 
 ---
@@ -80,4 +80,7 @@ Passionate about building scalable software, intuitive user experiences, and bri
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hsehee@udel.edu)
 
 ---
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=h-sehee&show_icons=true&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=h-sehee&show_icons=true&theme=radical" alt="h-sehee's GitHub stats" />
+</p>
