@@ -21,7 +21,7 @@ Passionate about building scalable software, intuitive user experiences, and bri
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 **Frameworks & Tools**
@@ -41,7 +41,7 @@ Passionate about building scalable software, intuitive user experiences, and bri
 **AI**
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![NotebookLM](https://img.shields.io/badge/NotebookLM-FFFFFF?style=flat-square&logo=notebooklm&logoColor=black)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-000000?style=flat-square&logo=notebooklm&logoColor=white)
 
 **Design & Creative**
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
